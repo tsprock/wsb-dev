@@ -2,6 +2,7 @@
   <MappedFolders>
   </MappedFolders>
   <LogonCommand>
-    <Command></Command>
+    <Command>Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/tsprock/wsb-dev/main/installer.ps1?token=GHSAT0AAAAAACKP4VHMRXSH5UKOXTMQXUGGZLVN2LQ')
+</Command>
   </LogonCommand>
 </Configuration>
