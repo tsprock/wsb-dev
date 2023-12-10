@@ -1,0 +1,7 @@
+<Configuration>
+  <MappedFolders>
+  </MappedFolders>
+  <LogonCommand>
+    <Command></Command>
+  </LogonCommand>
+</Configuration>
